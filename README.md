@@ -1,3 +1,5 @@
+CS 360
+
 Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?
 
 I created an inventory app to help keep track of items around the house/ classroom/ small store. The app was intended for those who need something simple, that can keep track of small inventories, and will inform the user when any one of the items has run out of stock. 
